@@ -2,3 +2,4 @@ fasttext
 huggingface_hub
 matplotlib
 seaborn
+numpy==1.26.4
